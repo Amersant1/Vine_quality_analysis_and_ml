@@ -56,3 +56,36 @@ button {
     font-weight: bold;
     font-size: 16px;
 }
+
+.header_of_block {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: white; /* Set the text color to white */
+}
+
+.header_content {
+    background-color: #fff; /* Set the background color to white */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.header_content h1 {
+    margin: 0;
+    color: #333; /* Set the title color to a dark color for contrast */
+}
+
+.header_content p {
+    margin-bottom: 10px;
+    color: #555; /* Set the description color to a slightly darker color for contrast */
+}
+
+.header_content a {
+    color: #4caf50; /* Set the link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header_content a:hover {
+    text-decoration: underline; /* Add underline on hover for better user feedback */
+}
