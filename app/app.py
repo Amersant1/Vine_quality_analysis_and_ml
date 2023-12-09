@@ -11,7 +11,7 @@ import plotly.express as px
 
 
 # #------------------------------------------------------------data
-# path='..\data\winequality-red (1).csv'
+# path='data\winequality-red (1).csv'
 
 
 # df = pd.read_csv(path)
