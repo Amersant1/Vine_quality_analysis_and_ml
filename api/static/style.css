@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.header_of_block {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.attribute_block {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.attribute_name {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="range"] {
+    width: calc(100% - 20px);
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.range-labels {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.predictionResult {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    font-weight: bold;
+    font-size: 16px;
+}
