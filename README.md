@@ -12,10 +12,10 @@ In this project i have made analysis of wine chemical characteristics and it's d
 How to run project:
 
 WEBAPP:
-$ cd api
-$ python app.py
+1) $ cd api
+2) $ python app.py
 
 
 STREAMLIT:
-$ cd app
-$ streamlit run app.py
+1) $ cd app
+2) $ streamlit run app.py
