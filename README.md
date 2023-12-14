@@ -8,3 +8,14 @@ In this project i have made analysis of wine chemical characteristics and it's d
 2) The file, which makes machine learning model is api/model.py
 3) The project with streamlit webapp in /app
 4) The webapp with prediction of wine quality in /api
+
+How to run project:
+
+WEBAPP:
+$ cd api
+$ python app.py
+
+
+STREAMLIT:
+$ cd app
+$ streamlit run app.py
